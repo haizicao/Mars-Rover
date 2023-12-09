@@ -10,3 +10,4 @@ This section includes the experimental process of this project, the collected ex
 ## Part 3 : Autonomous navigation through waypoint
 This section includes the path design diagram of the Mars rover and an analysis of the situation through the path points. Here, we will summarize the possible causes of errors in the Mars rover and attach possible improvement ideas.
 
+Below these three major folders are some individual files, such as our presentation for the second and third parts.
